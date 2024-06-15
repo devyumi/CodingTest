@@ -16,7 +16,6 @@ public class No2294 {
         for (int i = 1; i < n + 1; i++) {
             value[i] = Integer.parseInt(br.readLine());
         }
-
         for (int i = 1; i < k + 1; i++) {
             dp[i] = (int) 1e9;
         }
