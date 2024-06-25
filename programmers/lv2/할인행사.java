@@ -3,7 +3,7 @@ package programmers.lv2;
 import java.util.HashMap;
 import java.util.Map;
 
-class Solution {
+public class 할인행사 {
 
   public int solution(String[] want, int[] number, String[] discount) {
     int answer = 0;
